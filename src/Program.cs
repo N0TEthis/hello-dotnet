@@ -1,4 +1,4 @@
-u```csharp
+
 using System.Reflection;
 using System.Runtime.InteropServices;
 using HelloDotnet;
@@ -38,4 +38,4 @@ if (OperatingSystem.IsWindows())
 }
 
 return 0;
-```
+
